@@ -28,7 +28,7 @@ public class AddContractParallelRecursion {
 		Chromatic c = new Chromatic(G);
 		pool.invoke(c);
 	}
-
+  
 	/**
 	 * 
 	 * @param g
